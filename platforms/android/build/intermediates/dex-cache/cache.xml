@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="89f0a1f737477abeda61c0072529d5158b1ebe81">
+        <dex dex="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_2307b5f9c3ffc28d726efefa099d72c2bbcceaa0.jar" />
+    </item>
+    <item
+        jar="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-23.4.0_9c6d200d225c96b2bc162248d71f02ff2c02b245.jar" />
+    </item>
+    <item
+        jar="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-23.4.0_d07b92fa33d1ad05723be9b4b17f64e9472525e9.jar" />
+    </item>
+    <item
+        jar="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-23.4.0_824ec963d9042092998a0654354f09d1b4e6edef.jar" />
+    </item>
+    <item
+        jar="D:\AndroidDev\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-23.4.0_2e93450cefb9ebea38004aa9d063d0573373bd8f.jar" />
+    </item>
+    <item
+        jar="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-23.4.0_c205b330922662425ff3a313fae349a7d274177f.jar" />
+    </item>
+    <item
+        jar="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\exploded-aar\tpm\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="736a019270b8fb0fda4532f90fc9d1a7458022c0">
+        <dex dex="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_24cd8ceb3f54cc18dcb2c3e753db9fa09a099abd.jar" />
+    </item>
+    <item
+        jar="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-23.4.0_d85b8ddb711b676e38583845dc54cffda78a7d1c.jar" />
+    </item>
+    <item
+        jar="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\exploded-aar\tpm\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="60fb0eb96d073a4a1d71095f8e16dbb6ff73681c">
+        <dex dex="D:\2016_Project\toyota\tpm\platforms\android\build\intermediates\pre-dexed\F0\debug\tpm-runtime-unspecified_bdd8597235e4f80720c2ccad73d655de68da242a.jar" />
+    </item>
+
+</items>

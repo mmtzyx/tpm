@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\2016_Project\\toyota\\tpm\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "D:\\2016_Project\\toyota\\tpm\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "D:\\2016_Project\\toyota\\tpm\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "D:\\2016_Project\\toyota\\tpm\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "D:\\2016_Project\\toyota\\tpm\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "D:\\2016_Project\\toyota\\tpm\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]

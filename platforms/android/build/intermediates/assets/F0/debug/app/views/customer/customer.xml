@@ -1,0 +1,15 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+  <StackLayout>
+        <GridLayout rows="auto" style="background-color:#000000;">
+            <Label text="Customer lists" horizontalAlignment="left" style="color:#ffffff" />
+            <Button text="+" horizontalAlignment="right" style="color:#ffffff" tap="navigateToAddNew" />
+        </GridLayout>
+        <ListView items="{{ lists }}" itemTap="navigateToTasks">
+            <ListView.itemTemplate>
+                <GridLayout rows="auto, auto">
+                    <Label text="{{ firstname }}" horizontalAlignment="left" row="0" />                    
+              </GridLayout>
+            </ListView.itemTemplate>
+        </ListView>
+  </StackLayout>
+</Page>

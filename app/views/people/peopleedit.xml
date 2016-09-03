@@ -1,0 +1,10 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+    <StackLayout>
+        <TextField id="firstname" hint="Update First Name" text="{{ firstname }}" />
+        <TextField id="lastname" hint="Update Last Name" text="{{ lastname }}" />
+        <StackLayout orientation="horizontal">
+            <Button text="Update" tap="{{ update }}" />
+            <Button text="Hapus" tap="{{ hapus }}" />
+        </StackLayout>
+    </StackLayout>
+</Page>
